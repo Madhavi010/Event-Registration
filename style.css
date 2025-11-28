@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+}
+
+input, button {
+    width: 100%;
+    padding: 8px;
+    margin: 6px 0;
+}
+
+button {
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #005dc1;
+}
+
+ul {
+    background: #f4f4f4;
+    padding: 10px;
+}
+
+li {
+    padding: 6px;
+    border-bottom: 1px solid #ddd;
+}
